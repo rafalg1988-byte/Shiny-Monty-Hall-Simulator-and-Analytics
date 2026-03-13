@@ -1,0 +1,38 @@
+/* www/styles.css */
+  
+  /* Settings button positioning */
+  .settings-btn { 
+    position: absolute; 
+    top: 60px; 
+    right: 20px; 
+    z-index: 1000; 
+  }
+
+/* Science & Content containers */
+  .science-container { 
+    font-size: 1.1em; 
+    line-height: 1.6; 
+    margin-bottom: 50px; 
+  }
+
+.tab-content { 
+  min-height: 70vh; 
+}
+
+/* Quotes and Footer */
+  blockquote {
+    font-style: italic; 
+    border-left: 5px solid #2c3e50;
+    padding: 10px 20px; 
+    margin: 10px 0;
+    background-color: #f9f9f9; 
+      color: #555;
+  }
+
+.footer-style {
+  text-align: center; 
+  color: #95a5a6;
+    padding: 20px 0; 
+  width: 100%; 
+  background-color: transparent;
+}
