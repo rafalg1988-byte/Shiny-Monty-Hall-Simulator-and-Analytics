@@ -59,7 +59,7 @@ i18n <- list(
     fair_desc = "Was the game really programmed so that prizes appear in doors 1, 2, and 3 with the same probability: 1/3? You can check it here.",
     fair_extra = "The chart below shows the frequency of the main prize for each door. According to the Law of Large Numbers, the distribution stabilizes around 33.3% after many trials.",
     fair_extra2 = "Global statistics from all application users:",
-    intro_text = "Welcome to the Monty Hall game! Choose one of three doors. One hides a car, the others hide Zonks. Probability theory says it's worth switching!",
+    intro_text = "Welcome to the Monty Hall game! Choose one of three doors. One hides a car, the others hide Zonks. Probability theory says it's worth switching! But is it really? Check it out for yourself!",
     intro_options_label = "Options:",
     intro_adv_info = "You can change settings at any time using the gear icon in the top right corner.",
     show_adv = "Show advanced statistics options",

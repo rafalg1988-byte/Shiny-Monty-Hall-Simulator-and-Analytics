@@ -1,0 +1,15 @@
+# RStudio and R temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*-local.R
+
+# App-specific secrets and history
+.secrets/
+rsconnect/
+.Renviron
+
+# Logs and system files
+*.log
+.DS_Store
